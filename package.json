@@ -1,0 +1,15 @@
+{
+    "name": "testazure",
+    "version": "10.4.1",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^5.3.1"
+    }
+}

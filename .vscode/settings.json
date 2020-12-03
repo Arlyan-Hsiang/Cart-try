@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b2ad87e2-2df9-4649-876b-f15efb7f6cd6/resourceGroups/Toolism/providers/Microsoft.Web/sites/nodetool"
+}
